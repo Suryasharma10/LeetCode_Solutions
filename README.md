@@ -21,4 +21,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3871-count-commas-in-range-ii](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/3871-count-commas-in-range-ii) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
