@@ -25,4 +25,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/0175-combine-two-tables) |
+## Hash Table
+|  |
+| ------- |
+| [2716-minimize-string-length](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/2716-minimize-string-length) |
+## String
+|  |
+| ------- |
+| [2716-minimize-string-length](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/2716-minimize-string-length) |
 <!---LeetCode Topics End-->
