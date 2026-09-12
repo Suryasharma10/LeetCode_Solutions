@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2716-minimize-string-length](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/2716-minimize-string-length) |
+| [3798-largest-even-number](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/3798-largest-even-number) |
 ## Tree
 |  |
 | ------- |
