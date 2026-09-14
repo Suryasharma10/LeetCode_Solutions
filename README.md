@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/0561-array-partition) |
+| [1572-matrix-diagonal-sum](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/1572-matrix-diagonal-sum) |
 ## Greedy
 |  |
 | ------- |
@@ -51,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2169-count-operations-to-obtain-zero](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/2169-count-operations-to-obtain-zero) |
+## Matrix
+|  |
+| ------- |
+| [1572-matrix-diagonal-sum](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
