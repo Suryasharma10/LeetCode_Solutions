@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/2500-delete-greatest-value-in-each-row) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Greedy
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2119-a-number-after-a-double-reversal](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/2119-a-number-after-a-double-reversal) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/2169-count-operations-to-obtain-zero) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3871-count-commas-in-range-ii](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/3871-count-commas-in-range-ii) |
 ## Database
 |  |
