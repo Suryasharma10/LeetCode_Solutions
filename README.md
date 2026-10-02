@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/0022-generate-parentheses) |
 | [0567-permutation-in-string](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/0567-permutation-in-string) |
 | [1436-destination-city](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/1436-destination-city) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -113,5 +114,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/0022-generate-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
