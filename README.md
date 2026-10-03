@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0561-array-partition](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/0561-array-partition) |
 | [1436-destination-city](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/1436-destination-city) |
 | [1572-matrix-diagonal-sum](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/1572-matrix-diagonal-sum) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0561-array-partition](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/0561-array-partition) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 ## Counting Sort
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0567-permutation-in-string](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/0567-permutation-in-string) |
 | [1436-destination-city](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/1436-destination-city) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -55,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/0022-generate-parentheses) |
+| [0049-group-anagrams](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0567-permutation-in-string](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/0567-permutation-in-string) |
 | [1436-destination-city](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/1436-destination-city) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
