@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0561-array-partition](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/0561-array-partition) |
 | [1436-destination-city](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/1436-destination-city) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/0027-remove-element) |
 | [0567-permutation-in-string](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/0567-permutation-in-string) |
 | [1768-merge-strings-alternately](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/1768-merge-strings-alternately) |
 ## Heap (Priority Queue)
