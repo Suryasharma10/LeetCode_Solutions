@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/0700-search-in-a-binary-search-tree) |
+| [2236-root-equals-sum-of-children](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/2236-root-equals-sum-of-children) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/0700-search-in-a-binary-search-tree) |
+| [2236-root-equals-sum-of-children](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/2236-root-equals-sum-of-children) |
 ## Simulation
 |  |
 | ------- |
