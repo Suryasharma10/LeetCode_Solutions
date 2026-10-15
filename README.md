@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2500-delete-greatest-value-in-each-row](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Greedy
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2716-minimize-string-length](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/2716-minimize-string-length) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## String
 |  |
@@ -159,4 +161,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
