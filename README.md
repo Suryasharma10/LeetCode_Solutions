@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/0134-gas-station) |
 | [0561-array-partition](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/0561-array-partition) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [2864-maximum-odd-binary-number](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/2864-maximum-odd-binary-number) |
 ## Sorting
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2119-a-number-after-a-double-reversal](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/2119-a-number-after-a-double-reversal) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/2169-count-operations-to-obtain-zero) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2864-maximum-odd-binary-number](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/2864-maximum-odd-binary-number) |
 | [3871-count-commas-in-range-ii](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/3871-count-commas-in-range-ii) |
 ## Database
 |  |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2716-minimize-string-length](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/2716-minimize-string-length) |
+| [2864-maximum-odd-binary-number](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/2864-maximum-odd-binary-number) |
 | [3498-reverse-degree-of-a-string](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3798-largest-even-number](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/3798-largest-even-number) |
 ## Tree
