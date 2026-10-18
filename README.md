@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/0049-group-anagrams) |
+| [0392-is-subsequence](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/0567-permutation-in-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/1021-remove-outermost-parentheses) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/0027-remove-element) |
+| [0392-is-subsequence](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/0567-permutation-in-string) |
 | [1768-merge-strings-alternately](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/1768-merge-strings-alternately) |
 ## Heap (Priority Queue)
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/0022-generate-parentheses) |
+| [0392-is-subsequence](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/0392-is-subsequence) |
 ## Backtracking
 |  |
 | ------- |
