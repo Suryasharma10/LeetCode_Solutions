@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1630-arithmetic-subarrays](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/1630-arithmetic-subarrays) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0561-array-partition](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/0561-array-partition) |
 | [1630-arithmetic-subarrays](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/1630-arithmetic-subarrays) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 ## Counting Sort
 |  |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/0700-search-in-a-binary-search-tree) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Binary Tree
 |  |
 | ------- |
