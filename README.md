@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2716-minimize-string-length](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/2716-minimize-string-length) |
 | [2864-maximum-odd-binary-number](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/2864-maximum-odd-binary-number) |
 | [3498-reverse-degree-of-a-string](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/3498-reverse-degree-of-a-string) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/0567-permutation-in-string) |
 | [1768-merge-strings-alternately](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/1768-merge-strings-alternately) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
