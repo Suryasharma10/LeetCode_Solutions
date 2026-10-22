@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2679-sum-in-a-matrix](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/2679-sum-in-a-matrix) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/3131-find-the-integer-added-to-array-i) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1630-arithmetic-subarrays](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/1630-arithmetic-subarrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/2500-delete-greatest-value-in-each-row) |
+| [2679-sum-in-a-matrix](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/2679-sum-in-a-matrix) |
 ## Counting Sort
 |  |
 | ------- |
@@ -120,12 +122,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1389-create-target-array-in-the-given-order](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/2169-count-operations-to-obtain-zero) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/2500-delete-greatest-value-in-each-row) |
+| [2679-sum-in-a-matrix](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/2679-sum-in-a-matrix) |
 | [3498-reverse-degree-of-a-string](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Matrix
 |  |
 | ------- |
 | [1572-matrix-diagonal-sum](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/2500-delete-greatest-value-in-each-row) |
+| [2679-sum-in-a-matrix](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/2679-sum-in-a-matrix) |
 ## Linked List
 |  |
 | ------- |
@@ -142,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/2500-delete-greatest-value-in-each-row) |
+| [2679-sum-in-a-matrix](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/2679-sum-in-a-matrix) |
 ## Sliding Window
 |  |
 | ------- |
