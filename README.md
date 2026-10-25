@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0134-gas-station](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/0134-gas-station) |
 | [0561-array-partition](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/0561-array-partition) |
+| [1122-relative-sort-array](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/1122-relative-sort-array) |
 | [1207-unique-number-of-occurrences](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1436-destination-city](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/1436-destination-city) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0561-array-partition](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/0561-array-partition) |
+| [1122-relative-sort-array](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/1122-relative-sort-array) |
 | [1630-arithmetic-subarrays](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/1630-arithmetic-subarrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/2500-delete-greatest-value-in-each-row) |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/0561-array-partition) |
+| [1122-relative-sort-array](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/1122-relative-sort-array) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
@@ -69,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0567-permutation-in-string](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/0567-permutation-in-string) |
+| [1122-relative-sort-array](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/1122-relative-sort-array) |
 | [1207-unique-number-of-occurrences](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1436-destination-city](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/1436-destination-city) |
 | [1630-arithmetic-subarrays](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/1630-arithmetic-subarrays) |
@@ -200,4 +204,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
+## Quicksort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/1122-relative-sort-array) |
+## Bubble Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
