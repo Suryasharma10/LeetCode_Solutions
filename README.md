@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3131-find-the-integer-added-to-array-i](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 ## Greedy
 |  |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2500-delete-greatest-value-in-each-row](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2679-sum-in-a-matrix](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/2679-sum-in-a-matrix) |
 | [3498-reverse-degree-of-a-string](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/3498-reverse-degree-of-a-string) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Matrix
 |  |
 | ------- |
@@ -212,4 +214,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1122-relative-sort-array](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/1122-relative-sort-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 <!---LeetCode Topics End-->
