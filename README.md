@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Greedy
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2864-maximum-odd-binary-number](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/2864-maximum-odd-binary-number) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3871-count-commas-in-range-ii](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/3871-count-commas-in-range-ii) |
 ## Database
 |  |
