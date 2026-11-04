@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/0027-remove-element) |
+| [0041-first-missing-positive](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0134-gas-station](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/0134-gas-station) |
 | [0561-array-partition](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/0561-array-partition) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0041-first-missing-positive](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0567-permutation-in-string](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/0567-permutation-in-string) |
 | [1122-relative-sort-array](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/1122-relative-sort-array) |
