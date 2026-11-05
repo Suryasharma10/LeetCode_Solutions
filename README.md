@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/1122-relative-sort-array) |
 | [1207-unique-number-of-occurrences](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1436-destination-city](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/1436-destination-city) |
 | [1572-matrix-diagonal-sum](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/1572-matrix-diagonal-sum) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/0561-array-partition) |
 | [1122-relative-sort-array](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1630-arithmetic-subarrays](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/1630-arithmetic-subarrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/2500-delete-greatest-value-in-each-row) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/0700-search-in-a-binary-search-tree) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Binary Tree
 |  |
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/0027-remove-element) |
 | [0392-is-subsequence](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/0567-permutation-in-string) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1768-merge-strings-alternately](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/1768-merge-strings-alternately) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Heap (Priority Queue)
