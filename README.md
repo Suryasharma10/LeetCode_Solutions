@@ -233,5 +233,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/0191-number-of-1-bits) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
