@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2716-minimize-string-length](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/2716-minimize-string-length) |
 | [2864-maximum-odd-binary-number](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/2864-maximum-odd-binary-number) |
 | [3498-reverse-degree-of-a-string](https://github.com/Suryasharma10/LeetCode_Solutions/tree/master/3498-reverse-degree-of-a-string) |
